@@ -1,9 +1,3 @@
-/***********
-* Yael Avioz
-* 207237421
-* 01
-* ass04
-***********/
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
